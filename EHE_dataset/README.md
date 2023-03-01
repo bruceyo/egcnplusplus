@@ -7,7 +7,7 @@ Bruce X.B. Yu, Yan Liu, Keith C.C. Chan, Qintai Yang, Xiaoying Wang, Pattern Rec
 The naming format of the exercise repetitions are like "S##A##L##.skeleton", where S indicates subject id, A indicates exercise id, L indicates number of repetition.
 
 ## Prepare Data Evaluation Protocols
-###Download the dataset
+### Download the dataset
 The skeleton version is available at [EHE](https://github.com/bruceyo/egcnplusplus/blob/main/EHE_dataset/skeleton.rar)
 
 Unzip the file ```skeleton.rar```.
