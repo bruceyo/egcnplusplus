@@ -15,7 +15,7 @@ Unzip the file ```skeleton.rar```.
 ### Two evaluation protocols are used: Cross-Subject and Random-Division.
 Use file ```polyu_elderlyhome_gendata.py``` to generate the data for experiments.
 
-*Note to set the ```skeleton data folder```, the ```output folder```, and the ```skeleton feature``` (i.e., position or orientation or both) at Line 129-133.
+*Note to set the ```skeleton data folder```, the ```output folder```, and the ```skeleton feature``` (i.e., position or orientation or both) at Lines 129-133.
 
 ## Prepare Data for Pre-training
 Use file ```polyu_elderlyhome_gendata_cls.py``` to generate the data to pre-train a GCN model.
