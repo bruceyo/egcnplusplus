@@ -11,7 +11,7 @@ Available at [EHE](https://github.com/bruceyo/egcnplusplus/tree/main/EHE_dataset
 
 
 ## EGCN++
-EGCN is an advance version of [EGCN](https://github.com/bruceyo/EGCN) (IJCAI 2022).
+EGCN++ is an advance version of [EGCN](https://github.com/bruceyo/EGCN) (IJCAI 2022).
 <div align="center">
     <img src="resource/egcnplusplus_framework.png">
 </div>
