@@ -7,11 +7,14 @@ Bruce X.B. Yu, Yan Liu, Keith C.C. Chan, Qintai Yang, Xiaoying Wang, Pattern Rec
 The naming format of the exercise repetitions are like "S##A##L##.skeleton", where S indicates subject id, A indicates exercise id, L indicates number of repetition.
 
 ## Prepare Data Evaluation Protocols
-Download the dataset at [EHE](https://github.com/bruceyo/egcnplusplus/blob/main/EHE_dataset/skeleton.rar)
+###Download the dataset
+The skeleton version is available at [EHE](https://github.com/bruceyo/egcnplusplus/blob/main/EHE_dataset/skeleton.rar)
+
 Unzip the file ```skeleton.rar```.
 
-Two evaluation protocols are used: Cross-Subject and Random-Division.
+### Two evaluation protocols are used: Cross-Subject and Random-Division.
 Use file ```polyu_elderlyhome_gendata.py``` to generate the data for experiments.
+
 *Note to set the ```skeleton data folder```, the ```output folder```, and the ```skeleton feature``` (i.e., position or orientation or both) at Line 129-133.
 
 ## Prepare Data for Pre-training
